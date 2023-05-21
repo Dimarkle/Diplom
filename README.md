@@ -38,7 +38,6 @@ ___
 * [prometheus-playbook.yml](https://github.com/Dimarkle/Diplom/blob/main/ansible/prometheus-playbook.yml)
 ![239751868-5a4f74dc-e482-44d7-ace2-37638e791a89](https://github.com/Dimarkle/Diplom/assets/118626944/9c9cfb47-1d0f-4bea-b21e-8da38cb56968)
 Проверяем работу prometheus:
-
 ![Снимок экрана от 2023-05-21 14-33-00](https://github.com/Dimarkle/Diplom/assets/118626944/1e131452-bb61-400a-b9d6-67d62ebad9d1)
 ___
 * [kibana-playbook.yml](https://github.com/Dimarkle/Diplom/blob/main/ansible/kibana-playbook.yml)
