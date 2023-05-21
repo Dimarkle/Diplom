@@ -57,4 +57,6 @@ ___
 ___
 ![3](https://github.com/Dimarkle/Diplom/assets/118626944/5e081dea-945e-4270-9bef-64d7fb7f87c2)
 ___
-
+* Grafana доступна по адресу:http://158.160.67.66:3000/d/4aBQsjSmz34/nginx-servers-metrics111?orgId=1&refresh=10s
+![Без ипапапапапамени](https://github.com/Dimarkle/Diplom/assets/118626944/f699fbfc-8f9c-448f-abd1-a48e074357fa)
+___
