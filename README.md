@@ -28,8 +28,9 @@ ___
 * С помощью [Ansible](https://github.com/Dimarkle/Diplom/tree/main/ansible) установил необходимые сервисы на виртуальных машинах:
 * [elasticsearch-playbook.yml](https://github.com/Dimarkle/Diplom/blob/main/ansible/elasticsearch-playbook.yml)
 
-
 ![Снимок экрана от 2023-05-21 14-15-50](https://github.com/Dimarkle/Diplom/assets/118626944/10ad7cec-6f4e-4e54-a443-0845b6b2b33e)
+Проверяем работу elastic:
+![Снимок экрана от 2023-05-21 14-30-21](https://github.com/Dimarkle/Diplom/assets/118626944/5e663c80-68a9-4f98-b73d-3abc1d6e4eed)
 ___
 
 * [grafana-playbook.yml](https://github.com/Dimarkle/Diplom/blob/main/ansible/grafana-playbook.yml) Создал user (Admin) и пароль (12345) 
@@ -37,6 +38,9 @@ ___
 ___
 * [prometheus-playbook.yml](https://github.com/Dimarkle/Diplom/blob/main/ansible/prometheus-playbook.yml)
 ![Снимок экрана от 2023-05-21 14-16-33](https://github.com/Dimarkle/Diplom/assets/118626944/5a4f74dc-e482-44d7-ace2-37638e791a89)
+Проверяем работу prometheus:
+
+![Снимок экрана от 2023-05-21 14-33-00](https://github.com/Dimarkle/Diplom/assets/118626944/1e131452-bb61-400a-b9d6-67d62ebad9d1)
 ___
 * [kibana-playbook.yml](https://github.com/Dimarkle/Diplom/blob/main/ansible/kibana-playbook.yml)
 ![Снимок экрана от 2023-05-21 14-16-17](https://github.com/Dimarkle/Diplom/assets/118626944/2cb9d977-1731-4399-b9f2-be97477165ed)
