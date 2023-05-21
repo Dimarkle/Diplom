@@ -1,0 +1,10 @@
+#cloud-config
+ users:
+  - name: diman
+    groups: sudo
+    shell: /bin/bash
+    sudo: ['ALL=(ALL) NOPASSWD:ALL']
+    ssh-authorized-keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC4x4Hv9pYKEjNV0kW2P4nYxtaHI7zHh4dgArC1C7RiRE54eXrKQX2R40wYJyTLR4KpEyTmPVV5PFgsnwtBmoM7U4LeofWxfbukSZusBvu26ZtG8/9PNLQzgQ0XaPMNTAkIKYvk/xivKY2V2ChwxYyFzFH6M4Q9ANIMxsr3JP22fpSaeLzYxLNXrt/yngDPM1CXAf1cEGqIG69uJSvelovhUp2sN7AuuEWKrgFtH0Ufac6sKlCV82ZjycXlyyy6QftevcUBYr0nGKgKFu11Bj6e2q5U2QXi6nA1U1XUaPnTwXxFaDmajnDutRr3N0pOTgyaRPvPaCYbejSpIrUy1h3ci1F0b79fEFaIhVXmLfI/DVQgb+3vpx/5JVUhq8ZRIXcKc9JkctM1OTu2CVS7tEl5Z42lm6bUEXrjrpvbVH16so1IwHQ/tS6ZIqGfSYNJCcg8p6YFl2S/xhMXwb/3ujmrJk6W2jBaKdJAR90RiE1NuFKGOUQ/umUoBUR+LU84TDE= root@diman-virtual-machine
+
+
