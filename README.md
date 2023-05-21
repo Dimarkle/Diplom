@@ -31,7 +31,6 @@ ___
 Проверяем работу elastic:
 ![Снимок экрана от 2023-05-21 14-30-21](https://github.com/Dimarkle/Diplom/assets/118626944/5e663c80-68a9-4f98-b73d-3abc1d6e4eed)
 ___
-
 * [grafana-playbook.yml](https://github.com/Dimarkle/Diplom/blob/main/ansible/grafana-playbook.yml) Создал user (Admin) и пароль (12345) 
 ![239751880-df44d346-3c26-44cd-92cf-c80a67adeb3c](https://github.com/Dimarkle/Diplom/assets/118626944/d079cad3-3baf-4161-b17b-0d9048d7bf18)
 ___
@@ -49,7 +48,6 @@ ___
 ___
 ## Итоги:
 * Сайт доступен по андресу: http://51.250.23.14/
-
 ![Снимок экрана от 2023-05-21 14-23-39](https://github.com/Dimarkle/Diplom/assets/118626944/7d508eb6-23a5-4a78-9523-24262adf6fae)
 ___
 * Kibana доступна по адресу: http://158.160.65.138:5601/app/home#/
