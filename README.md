@@ -48,6 +48,13 @@ ___
 ## Итоги:
 * Сайт доступен по андресу: http://51.250.23.14/
 
-___
 ![Снимок экрана от 2023-05-21 14-23-39](https://github.com/Dimarkle/Diplom/assets/118626944/7d508eb6-23a5-4a78-9523-24262adf6fae)
 ___
+* Kibana доступна по адресу: http://158.160.65.138:5601/app/home#/
+![1](https://github.com/Dimarkle/Diplom/assets/118626944/abbf9f59-c066-4a1a-94de-15ce0cdce398)
+___
+![2](https://github.com/Dimarkle/Diplom/assets/118626944/531780fe-0bc8-414c-85c0-ada1cfd33c23)
+___
+![3](https://github.com/Dimarkle/Diplom/assets/118626944/5e081dea-945e-4270-9bef-64d7fb7f87c2)
+___
+
