@@ -1,0 +1,8 @@
+- hosts: elasticsearch
+  remote_user: diman
+  become: yes
+  become_method: sudo
+  
+  roles:
+    - elasticsearch
+      
